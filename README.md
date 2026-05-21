@@ -6,8 +6,6 @@ Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio
 
 ---
 
-<img align="right" src="./ray1.gif" width="400" alt="Shiny Rayquaza" />
-
 ### Tech Stack
 **AI, Machine Learning & Data**  
 <p align="left">
@@ -18,13 +16,14 @@ Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio
   <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" /></a>
 </p>
 
+<img align="right" src="./ray1.gif" width="400" alt="Shiny Rayquaza" />
+
 **Languages**  
 <p align="left">
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" /></a>
   <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
 </p>
 
@@ -34,7 +33,6 @@ Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
