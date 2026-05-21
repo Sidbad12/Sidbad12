@@ -18,6 +18,7 @@ Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" /></a>
   <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r&theme=dark" /></a>
 </p>
+
 **AI, Machine Learning & Data**  
 <p align="left">
   <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></a>
@@ -25,6 +26,7 @@ Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio
   <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" /></a>
   <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" /></a>
 </p>
+
 **Architecture & Tools**  
 <p align="left">
   <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></a>
@@ -36,10 +38,12 @@ Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
 </p>
+
 ### GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sidbad12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
+
 ### Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/siddharth-badjate-12bad29/">
