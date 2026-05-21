@@ -1,16 +1,24 @@
-## Hi there 👋
+<img src="./banner.png" width="100%" alt="Siddharth Badjate – AI/ML" />
 
-<!--
-**Sidbad12/Sidbad12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## Hey, I'm Siddharth 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an AI/ML engineer and researcher based in India, obsessed with the intersection of hardware and intelligence.I spend my days working on machine learning. My work covers everything from early research to shipping models that actually work in the real world. I usually chase whatever problem is hard enough to keep me up at night.
+
+I refuse to treat these models as a black box. I like to dive straight into the fundamentals. Why did the loss curve stop going down here? What exactly did that attention head learn? For me, it is never just about using the tools. It is about taking them apart to understand how they work underneath.
+
+Currently engineering **DhanNiti** , an advanced Reinforcement Learning portfolio optimizer. Built with Stable-Baselines3, FastAPI, and Next.js, the PPO agent leverages technical indicators and time-series forecasting to capture algorithmic alpha. The project features a custom friction-aware backtester and automated DagsHub/MLflow integration for rigorous quantitative evaluation.
+
+---
+
+### Interests
+
+`Large Language Models` `RAG` `Edge AI` `Computer Vision` `Model Fine-tuning`
+
+---
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-badjate-12bad29/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:siddharth.badjate1211@gmail.com)
