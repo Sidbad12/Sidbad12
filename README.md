@@ -6,7 +6,7 @@ Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio
 
 ---
 
-<img align="right" src="./ray1.gif" width="250" alt="Shiny Rayquaza" />
+<img align="right" src="./ray2.gif" width="450" alt="Shiny Rayquaza" />
 
 ### Tech Stack
 **AI, Machine Learning & Data**  
