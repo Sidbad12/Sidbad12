@@ -6,15 +6,34 @@ Currently engineering **DhanNiti** — an advanced Reinforcement Learning portfo
 
 ---
 
-### Top Languages
- 
+### ⚡ Tech Stack
+
+**Languages**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java&theme=dark" />
 </p>
 
+**AI, Machine Learning & Data**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" />
+</p>
+
+**Architecture & Tools**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,docker,git&theme=dark" />
+</p>
+
 ---
 
-### Contact
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidbad12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/siddharth-badjate-12bad29/">
