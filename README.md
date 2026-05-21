@@ -7,6 +7,9 @@ Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio
 ---
 
 ### Tech Stack
+
+<img align="right" src="./ray1.gif" width="400" alt="Shiny Rayquaza" />
+
 **AI, Machine Learning & Data**  
 <p align="left">
   <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></a>
@@ -15,8 +18,6 @@ Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio
   <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" /></a>
   <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" /></a>
 </p>
-
-<img align="right" src="./ray1.gif" width="400" alt="Shiny Rayquaza" />
 
 **Languages**  
 <p align="left">
