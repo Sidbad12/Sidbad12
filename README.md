@@ -1,13 +1,31 @@
 <img src="./banner.png" width="100%" alt="Siddharth Badjate – AI/ML" />
 
-I'm an AI/ML engineer and researcher based in India, obsessed with the intersection of hardware and intelligence. I refuse to treat these models as a black box. I like to dive straight into the fundamentals. Why did the loss curve stop going down here? What exactly did that attention head learn? For me, it is never just about using the tools. It is about taking them apart to understand how they work underneath.
+<br/>
 
-Currently engineering **DhanNiti** , an advanced Reinforcement Learning portfolio optimizer. Built with Stable-Baselines3, FastAPI, and Next.js, the PPO agent leverages technical indicators and time-series forecasting to capture algorithmic alpha. The project features a custom friction-aware backtester and automated DagsHub/MLflow integration for rigorous quantitative evaluation.
+I'm an AI/ML engineer and researcher from India. I refuse to treat models as black boxes. I like to dive into the fundamentals. Why did the loss curve stop going down here? What exactly did that attention head learn? It's never just about using the tools, it's about taking them apart to understand what's happening underneath.
+
+Currently engineering **DhanNiti**, an advanced Reinforcement Learning portfolio optimizer built with Stable-Baselines3, FastAPI, and Next.js. The PPO agent leverages technical indicators and time-series forecasting to capture algorithmic alpha, with a custom friction-aware backtester and automated DagsHub/MLflow integration for rigorous quantitative evaluation.
+
+---
+
+### Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,react,nextjs,nodejs,docker,mongodb&theme=dark" />
+</p>
+
+---
+
+### Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidbad12&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" />
+</p>
 
 ---
 
 ### Interests
- 
+
 `Generative AI` `LLMs` `RAG` `Edge Inference` `Computer Vision` `Model Fine-tuning` `MLOps` `NLP` `Agentic Systems`
 
 ---
