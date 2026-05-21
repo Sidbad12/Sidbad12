@@ -7,16 +7,10 @@ Currently engineering **DhanNiti** — an advanced Reinforcement Learning portfo
 ---
 
 ### Top Languages
-
+ 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidbad12&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java&theme=dark" />
 </p>
-
----
-
-### Interests
-
-`Generative AI` `LLMs` `RAG` `Edge Inference` `Computer Vision` `Model Fine-tuning` `MLOps` `NLP` `Agentic Systems`
 
 ---
 
